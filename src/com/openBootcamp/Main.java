@@ -18,8 +18,6 @@ public class Main {
 
         // Muestra de catalogo
         showSmarts();
-
-
     }
         public static void showSmarts(){
             for(int i = 0; i< catalogo.size(); i++)
