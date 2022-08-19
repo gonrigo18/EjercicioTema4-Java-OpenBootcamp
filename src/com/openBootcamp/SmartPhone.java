@@ -1,6 +1,5 @@
 package com.openBootcamp;
-
-    public class SmartPhone extends SmartDevice {
+ public class SmartPhone extends SmartDevice {
 
         String name;
         String colour;
